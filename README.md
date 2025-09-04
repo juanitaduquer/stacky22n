@@ -1,4 +1,4 @@
-# stacky22n
+# Stacky Generalized Fermat (2,2,n)
 
 This package determines rigurously when there are primitive solutions to 
 generalized Fermat equations x^2+By^2=Cz^n for n odd.
@@ -12,9 +12,9 @@ Andrew Kobin, Manami Roy, Soumya Sankar, and Yidi Wang.
 # Running the code
 To run all functionalities:
 ```
-load "Cascade.m";
-load "BruteForcePoints.m";
-load "LocalTest.m";
+load "Code/Cascade.m";
+load "Code/BruteForcePoints.m";
+load "Code/LocalTest.m";
 ```
 
 # Examples

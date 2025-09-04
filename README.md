@@ -9,7 +9,7 @@ The integral Hasse principle for stacky curves associated to a family of
 generalized Fermat equation, by Juanita Duque-Rosero, Christopher Keyes, 
 Andrew Kobin, Manami Roy, Soumya Sankar, and Yidi Wang.
 
-#Running the code
+# Running the code
 To run all functionalities:
 ```
 load "Cascade.m";
@@ -17,6 +17,6 @@ load "BruteForcePoints.m";
 load "LocalTest.m";
 ```
 
-#Examples
+# Examples
 The folder /Examples contains all the examples from the article, which 
 run in Magma V2.28-27.

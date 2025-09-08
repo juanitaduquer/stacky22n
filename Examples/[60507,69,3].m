@@ -2,7 +2,7 @@ load "../Code/BruteForcePoints.m";
 load "../Code/Cascade.m";
 
 n := 3;
-height := 5000;
+height := 10000;
 
 function FindBCExample(r,rprime)
 // The equations are x^2 + 32r · 83y^2 = 3r′· 23z^3

@@ -7,7 +7,7 @@ For more details see:
 
 The integral Hasse principle for stacky curves associated to a family of 
 generalized Fermat equation, by Juanita Duque-Rosero, Christopher Keyes, 
-Andrew Kobin, Manami Roy, Soumya Sankar, and Yidi Wang.
+Andrew Kobin, Manami Roy, Soumya Sankar, and Yidi Wang (in preparation). 
 
 # Running the code
 To run all functionalities:
